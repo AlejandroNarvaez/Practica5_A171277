@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/ALENARVAEZ/Desktop/MATERIAS/NOVENO/WEB/TAREAS/Practica5_A171277/ejemplo1.xsl"?>
+
+<?xml-stylesheet type="text/css" href="estilos.css" ?>
+
+<telefonos>
+	<telefono>
+		<marca>iPhone 13</marca>
+		<precio>29000</precio>
+	</telefono>
+	<telefono>
+		<marca>Samsung S20</marca>
+		<precio>20000</precio>
+	</telefono>
+	<telefono>
+		<marca>Huawei P40 Pro</marca>
+		<precio>18000</precio>
+	</telefono>
+</telefonos>
